@@ -59,8 +59,8 @@
     <packaging>pom</packaging>
     <name>Build aggregator for various FighterFish modules</name>
     <scm>
-        <connection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/fighterfish/module</connection>
-        <developerConnection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/fighterfish/module</developerConnection>
+        <connection>scm:git:git://github.com/javaee/fighterfish/module</connection>
+        <developerConnection>scm:git:git://github.com/javaee/fighterfish/module</developerConnection>
     </scm>
     <modules>
         <module>parent-pom</module>

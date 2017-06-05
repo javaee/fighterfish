@@ -49,16 +49,16 @@
         <version>1.0.5</version>
     </parent>
     <artifactId>osgi-cdi</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.4</version>
     <!-- We don't use bundle packaging as that interfers with other custom packaging types because of a maven bug
      which is probably fixed in recent maven versions, but I have no time to test them. So, better be safe.-->
     <packaging>jar</packaging>
     <name>GlassFish CDI Support for OSGi Bundles</name>
     
     <scm>
-        <connection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/fighterfish/module/osgi-cdi</connection>
-        <developerConnection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/fighterfish/module/osgi-cdi</developerConnection>
-        <url>https://svn.java.net/svn/glassfish~svn/trunk/fighterfish/module/osgi-cdi</url>
+        <connection>scm:git:git://github.com/javaee/fighterfish/module/osgi-cdi</connection>
+        <developerConnection>scm:git:git://github.com/javaee/fighterfish/module/osgi-cdi</developerConnection>
+        <url>https://github.com/javaee/fighterfish/tree/master/module/osgi-cdi</url>
 
     </scm>
 
@@ -87,16 +87,7 @@
             </plugin>
         </plugins>
     </build>
-    <developers>
-        <developer>
-            <id>sivakumart</id>
-            <name>Sivakumar Thyagarajan</name>
-            <organization>Oracle, Inc.</organization>
-            <roles>
-                <role>developer</role>
-            </roles>
-        </developer>
-        <developer>
+      <developer>
             <id>ss141213</id>
             <name>Sahoo</name>
             <organization>Oracle, Inc.</organization>
@@ -105,7 +96,15 @@
             </roles>
         </developer>
     </developers>
-    
+    <developers>
+        <developer>
+            <id>ankathur</id>
+            <name>Ankur Kathuria</name>
+            <organization>Oracle, Inc.</organization>
+            <roles>
+                <role>developer</role>
+            </roles>
+        </developer>    
     <dependencies>
         <dependency>
             <groupId>org.glassfish.fighterfish</groupId>
