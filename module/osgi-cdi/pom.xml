@@ -87,6 +87,7 @@
             </plugin>
         </plugins>
     </build>
+    <developers>
       <developer>
             <id>ss141213</id>
             <name>Sahoo</name>
@@ -95,8 +96,7 @@
                 <role>developer</role>
             </roles>
         </developer>
-    </developers>
-    <developers>
+       
         <developer>
             <id>ankathur</id>
             <name>Ankur Kathuria</name>
@@ -104,7 +104,8 @@
             <roles>
                 <role>developer</role>
             </roles>
-        </developer>    
+        </developer> 
+    </developers>   
     <dependencies>
         <dependency>
             <groupId>org.glassfish.fighterfish</groupId>
