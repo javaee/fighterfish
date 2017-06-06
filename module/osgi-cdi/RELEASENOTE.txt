@@ -1,5 +1,9 @@
 This file contains list of bugs and features that are part of a particular release.
 
+Version 1.0.4
+-------------
+CDI 2.0 upgrade.
+
 Version 1.0.3
 -------------
 GLASSFISH-18370: OSGi Services injected with CDI have their exceptions wrapped..
