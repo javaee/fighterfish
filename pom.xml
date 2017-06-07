@@ -60,9 +60,9 @@
 
     <modules>
         <module>module</module>
-        <module>sample</module>
+       <!-- <module>sample</module>
         <module>test</module>
-        <!--
+        
         <module>distro</module>
         -->
     </modules>
