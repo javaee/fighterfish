@@ -1,7 +1,7 @@
 <%--
 DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
 
-Copyright (c) 2011 Oracle and/or its affiliates. All rights reserved.
+Copyright (c) 2011-2018 Oracle and/or its affiliates. All rights reserved.
 
 The contents of this file are subject to the terms of either the GNU
 General Public License Version 2 only ("GPL") or the Common Development
@@ -37,6 +37,7 @@ and therefore, elected the GPL Version 2 license, then the option applies
 only if the new code is made subject to such option by the copyright
 holder.
 --%>
+
 <%
            response.setStatus(HttpServletResponse.SC_MOVED_TEMPORARILY);
            response.sendRedirect("/test.app10/login.page");
