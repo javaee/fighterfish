@@ -168,12 +168,6 @@
             <version>1.0.10</version>
             <scope>provided</scope>
         </dependency>
-       <!-- <dependency>
-            <groupId>org.apache.felix</groupId>
-            <artifactId>org.apache.felix.shell.remote</artifactId>
-            <version>1.1.2</version>
-            <scope>provided</scope>
-        </dependency>-->
         <!--
         This is a framework extension bundle that we install to make embeddable api available to everyone else.
         <dependency>
