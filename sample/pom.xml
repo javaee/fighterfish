@@ -60,6 +60,5 @@
 		<module>osgihttp</module>
 		<module>embeddedgf</module>
                 <module>testing</module>
-                <module>vaadin</module>
 	</modules>
 </project>
