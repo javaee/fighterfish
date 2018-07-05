@@ -1,5 +1,9 @@
 This file contains list of bugs and features that are part of a particular release.
 
+Version 1.0.4
+------------
+Copyright/License Headers Updated.
+
 Version 1.0.3
 -------------
 GLASSFISH-18840: Extenders are getting stopped with invalid BundleContext

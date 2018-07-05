@@ -1,5 +1,9 @@
 This file contains list of bugs and features that are part of a particular release.
 
+Version 2.0.1
+-------------
+Copyright/License headers Updated.
+
 Version 2.0.0
 -------------
 GLASSFISH-20593: Regression - Unable to locate static and dynamic resources from WAB fragments

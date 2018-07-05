@@ -1,5 +1,9 @@
 This file contains list of bugs and features that are part of a particular release.
 
+Version 1.0.8
+------------
+Cpyright/License Headers Updated.
+
 Version 1.0.7
 -------------
 GLASSFISH-19727: wab expanded directory can not be cleaned after accessing the wab resource
