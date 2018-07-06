@@ -49,7 +49,7 @@
         <version>1.0.5</version>
     </parent>
     <artifactId>osgi-cdi-api</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <!-- We use simple jar packaging as opposed to bundle, as there are some issues in multiple extensions
     being present in reactor. -->
     <packaging>jar</packaging>
