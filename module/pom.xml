@@ -67,11 +67,11 @@
         <module>osgi-javaee-base</module>
         <module>osgi-http</module>
         <module>osgi-web-container</module>
-        <module>osgi-ejb-container</module>-->
+        <module>osgi-ejb-container</module>
         <module>osgi-jdbc</module>
-        <!--<module>osgi-ee-resources/</module>
+        <module>osgi-ee-resources/</module>-->
         <module>osgi-jpa</module>
-        <module>osgi-jpa-extension</module>
+        <!--<module>osgi-jpa-extension</module>
         <module>osgi-jta</module>
         <module>osgi-cdi-api</module>
         <module>osgi-cdi</module> -->
