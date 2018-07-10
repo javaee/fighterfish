@@ -63,7 +63,7 @@
         <developerConnection>scm:git:git://github.com/javaee/fighterfish.git</developerConnection>
     </scm>
     <modules>
-       <!-- <module>parent-pom</module>
+       <!-- <module>parent-pom</module>-->
         <module>osgi-javaee-base</module>
         <module>osgi-http</module>
         <module>osgi-web-container</module>
@@ -71,10 +71,10 @@
         <module>osgi-jdbc</module>
         <module>osgi-ee-resources/</module>
         <module>osgi-jpa</module>
-        <module>osgi-jpa-extension</module>-->
+        <module>osgi-jpa-extension</module>
         <module>osgi-jta</module>
-       <!-- <module>osgi-cdi-api</module>
-        <module>osgi-cdi</module> -->
+        <module>osgi-cdi-api</module>
+        <module>osgi-cdi</module>
     </modules>
 
 </project>
