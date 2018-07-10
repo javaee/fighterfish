@@ -50,7 +50,7 @@
     </parent>
     <artifactId>osgi-jta</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <name>OSGi/JTA implementation in GlassFish</name>
     
     <scm>
